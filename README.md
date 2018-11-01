@@ -2,7 +2,7 @@
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
-| Example | Build status |
+| Example | Build status |[![Build Status](https://dev.azure.com/shivakumarg06/Sample%20DotNetCore/_apis/build/status/shivakumarg06.pipelines-dotnet-core)](https://dev.azure.com/shivakumarg06/Sample%20DotNetCore/_build/latest?definitionId=7)
 |---------|--------------|
 | Build | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/dotnetcore/dotnetcore)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=1) |
 | Build (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/dotnetcore/dotnetcore-yaml)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=2) |
